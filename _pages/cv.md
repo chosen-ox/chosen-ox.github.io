@@ -27,12 +27,10 @@ Research experience
   
 Skills
 ======
-* 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tools and Languages: Git, C,Cpp, Java, Rust, Nvim, Python, LATEX, MarkDown
+* Operate System: Linux(Arch Linux), Windows
+* Communication English, Chinese (reading and writing)
+
 
 Publications
 ======
@@ -40,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -51,7 +49,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+   -->
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
