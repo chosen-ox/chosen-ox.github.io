@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download formal CV here](http://chosen-ox.github.io/files/Jiakun_Fan_CV.pdf)
+
+
 Education
 ======
 * B.S. Chinese University of Hong Kong (Shenzhen), 2020-2024
