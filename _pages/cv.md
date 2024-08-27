@@ -14,6 +14,8 @@ redirect_from:
 
 Education
 ======
+* Virginia Polytechnic Institute and State University, 2024-Present
+  * Ph.D. in Computer Science
 * B.S. Chinese University of Hong Kong (Shenzhen), 2020-2024
   * Electronics & Communication Engineering
   
