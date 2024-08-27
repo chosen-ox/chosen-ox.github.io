@@ -9,17 +9,16 @@ redirect_from:
 ---
 
 Hi, 👋
-* 🌱 I’m currently interested in compiler, parallel and distributed system.
-* 👯 I’m applying to 2024 FALL M.S. & PHD program!
+* 🎓 I'm a Frist-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu/) Supervised by [Dr. Dimitrios Nikolopoulos](https://dsniko.github.io/)!
+* 🌱 I’m currently interested in MLSys, HPC, parallel and distributed system.
 * 💬 Feel free to talk to me!
 * 📫 How to reach me: vincentdftbg@gmail.com
 
 
 Current Learning
 ======
-* CMU CS 15-721 Advanced Database system
-* Distributed Storage System Based on Shift-XOR Codes
-* Path Diversification over Multipath Delay Channels
+* Upenn CIS 5650 GPU Programming
+* e-BPF
 
 Something in Plan
 ======
