@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Hi, 👋
-* 🎓 I'm a Frist-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu/) Supervised by [Dr. Dimitrios Nikolopoulos](https://dsniko.github.io/)!
-* 🌱 I’m currently interested in MLSys, HPC, parallel and distributed system.
+* 🎓 I'm currently a First-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu/) supervised by [Dr. Dimitrios Nikolopoulos](https://dsniko.github.io/)!
+* 🌱 I’m currently interested in MLSys, HPC, LLM.
 * 💬 Feel free to talk to me!
 * 📫 How to reach me: vincentdftbg@gmail.com
 
