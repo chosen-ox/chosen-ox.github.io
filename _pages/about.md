@@ -9,24 +9,22 @@ redirect_from:
 ---
 
 Hi, 👋
-* 🎓 I'm currently a First-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu/) supervised by [Dr. Dimitrios Nikolopoulos](https://dsniko.github.io/)!
+* 🎓 I'm currently a Second-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu/) supervised by [Dr. Dimitrios Nikolopoulos](https://dsniko.github.io/)!
 * 🌱 I’m currently interested in MLSys, HPC, LLM.
 * 💬 Feel free to talk to me!
 * 📫 How to reach me: vincentdftbg@gmail.com
 
 
-Current Learning
+Pubs
 ======
-* Upenn CIS 5650 GPU Programming
-* e-BPF
+Fan, Jiakun and Zhang, Yanglin and Li, Xiangchen and Nikolopoulos, Dimitrios S (2025). "Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving" Arxiv Preprint. [[paper]](https://arxiv.org/abs/2512.17077)
 
-Something in Plan
-======
-* Haskell
+Fan, Jiakun and Zhang, Yanglin and Li, Xiangchen and Nikolopoulos, Dimitrios S (2025). "Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs" Arxiv Preprint. [[paper]](https://arxiv.org/abs/2506.03296)
+
+Yuzhou Tong*, Jiakun Fan*, Xuhong Cai and Yi Chen (2023). "Rate Adaptation with Correlated Multi-Armed Bandits in 802.11 Systems" IEEE ICCC 2023. [[paper]](https://ieeexplore.ieee.org/abstract/document/10233472)
 
 I believe
 ======
 * Don't Repeat Yourself.
 * Don't Forget to be Great.
-* Data Privacy Is Important.
-* Studying Is A Long and Difficult Process.
+
