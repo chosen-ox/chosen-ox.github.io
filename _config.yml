@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Vincent's Website"
 title_separator          : "-"
 name                     : &name "Jiakun Fan"
-description              : &description "CUHK(SZ) ECE B.S. 2024FALL"
+description              : &description "Virginia Tech CS Ph.D."
 url                      : https://chosen-ox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chosen-ox/chosen-ox.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Jiakun Fan"
   avatar           : "avatar.png"
-  bio              : "CUHK(SZ) ECE Senior 2024FALL"
-  location         : "Shenzhen CN"
+  bio              : "Virginia Tech CS Ph.D."
+  location         : "Blacksburg US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NuTrRacAAAAJ"
-  email            : 120090316@link.cuhk.edu.cn
+  email            : vincentdftbg@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
