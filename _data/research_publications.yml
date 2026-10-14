@@ -1,0 +1,23 @@
+- title: "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding"
+  authors: "Jiakun Fan, Min Xiao, et al."
+  venue: "Under review"
+
+- title: "dLLM-Serve: Bridging the Memory Gap in Diffusion Language Model Serving"
+  authors: "Jiakun Fan, Yanglin Zhang, Xiangchen Li, Dimitrios S. Nikolopoulos."
+  venue: "ICS 2026"
+  url: "https://doi.org/10.1145/3797905.3800532"
+
+- title: "APEX: Asynchronous Parallel CPU-GPU Execution for Online LLM Inference on Constrained GPUs"
+  authors: "Jiakun Fan, Yanglin Zhang, Xiangchen Li, Dimitrios S. Nikolopoulos."
+  venue: "IPDPS 2026"
+  url: "https://doi.org/10.1109/IPDPS65963.2026.00099"
+
+- title: "WISP: Waste- and Interference-Suppressed Distributed Speculative LLM Serving at the Edge via Dynamic Drafting and SLO-Aware Batching"
+  authors: "Xiangchen Li, Jiakun Fan, et al."
+  venue: "SIGMETRICS 2026"
+  url: "https://doi.org/10.1145/3805653"
+
+- title: "SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving"
+  authors: "Xiangchen Li, Dimitrios Spatharakis, Saeid Ghafouri, Jiakun Fan, et al."
+  venue: "ACM/IEEE SEC 2025"
+  url: "https://doi.org/10.1145/3769102.3770608"

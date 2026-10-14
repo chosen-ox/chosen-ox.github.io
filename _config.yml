@@ -8,10 +8,10 @@
 # Site Settings
 #encoding                 : utf-8
 locale                   : "en-US"
-title                    : "Vincent's Website"
+title                    : "Jiakun Fan"
 title_separator          : "-"
 name                     : &name "Jiakun Fan"
-description              : &description "Virginia Tech CS Ph.D."
+description              : &description "CS Ph.D. at Virginia Tech. Research in MLSys, efficient LLM inference, and RSI infrastructure."
 url                      : https://chosen-ox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chosen-ox/chosen-ox.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Jiakun Fan"
   avatar           : "avatar.png"
-  bio              : "Virginia Tech CS Ph.D."
-  location         : "Blacksburg US"
+  bio              : "CS Ph.D. at Virginia Tech"
+  location         : "San Jose, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NuTrRacAAAAJ"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "jiakun-fan-6a748828a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

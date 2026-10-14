@@ -1,0 +1,7 @@
+{% assign publication_limit = include.limit | default: site.data.research_publications.size %}
+{% for paper in site.data.research_publications limit:publication_limit %}
+<article class="research-publication">
+  <h3>{% if paper.url %}<a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
+  <p>{{ paper.authors | escape }}<br><span class="research-meta">{{ paper.venue | escape }}</span></p>
+</article>
+{% endfor %}

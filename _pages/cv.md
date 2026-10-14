@@ -1,60 +1,53 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
+profile_page: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download CV (PDF)]({{ '/files/Jiakun_Fan_CV.pdf' | relative_url }})
 
-[Download formal CV here](http://chosen-ox.github.io/files/Jiakun_Fan_CV.pdf)
+Research focus: MLSys, efficient LLM inference, and RSI infrastructure.
 
+## Education
 
-Education
-======
-* Virginia Polytechnic Institute and State University, 2024-Present
-  * Ph.D. in Computer Science
-* B.S. Chinese University of Hong Kong (Shenzhen), 2020-2024
-  * Electronics & Communication Engineering
-  
-Research experience
-======
-* June 2021 - Present: Research Assistant
-  * Network Coding Laboratory
-  * Duties included:
-    * Maintain current source code.
-    * Develop new features of Bats code.
-    * Improve the Linux kernel Mac80211 rate control algorithm to increase potential throughput (paper published)
-  * Supervisor: Shenghao Yang
+### Virginia Tech
 
-  
-Skills
-======
-* Tools and Languages: Git, C,Cpp, Java, Rust, Nvim, Python, LATEX, MarkDown
-* Operate System: Linux(Arch Linux), Windows
-* Communication English, Chinese (reading and writing)
+Ph.D. in Computer Science, August 2024-present. Expected graduation: May 2028.
+GPA: 4.0/4.0.
 
+### The Chinese University of Hong Kong, Shenzhen
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+B.Eng. in Electrical and Computer Engineering, September 2020-June 2024.
+
+## Experience
+
+### ByteDance
+
+Research Scientist Intern, ML Systems. San Jose, CA. May 2026-present.
+Research on efficient LLM inference, including diffusion-based speculative
+decoding and training-inference co-design.
+
+### Virginia Tech
+
+Former Graduate Research Assistant. Research on memory-efficient LLM serving,
+heterogeneous CPU-GPU execution, and distributed speculative inference.
+
+## Selected research
+
+[Research projects]({{ '/projects/' | relative_url }}) include long-horizon
+autonomous research infrastructure, DScout, agentic KV cache management,
+dLLM-Serve, APEX, and SLED.
+
+## Publications and manuscripts
+
+{% include research-publications.html %}
+
+## Technical skills
+
+- Programming: Python, C/C++, CUDA, Rust.
+- Frameworks and libraries: PyTorch, vLLM, SGLang, FlashAttention.
+- Systems and infrastructure: Linux, Docker, GPU experiment orchestration.

@@ -1,16 +1,12 @@
 ---
-layout: archive
-title: "Publications"
+layout: single
+title: "Publications and manuscripts"
 permalink: /publications/
 author_profile: true
+profile_page: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Selected work on efficient LLM inference and serving systems. See
+[Google Scholar]({{ site.author.googlescholar }}) for the full publication record.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include research-publications.html %}
