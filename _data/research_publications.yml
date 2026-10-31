@@ -1,6 +1,7 @@
 - title: "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding"
   authors: "Jiakun Fan, Min Xiao, et al."
   venue: "Under review"
+  url: "https://arxiv.org/abs/2610.23935"
 
 - title: "dLLM-Serve: Bridging the Memory Gap in Diffusion Language Model Serving"
   authors: "Jiakun Fan, Yanglin Zhang, Xiangchen Li, Dimitrios S. Nikolopoulos."

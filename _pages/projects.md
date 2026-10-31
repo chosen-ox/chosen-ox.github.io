@@ -24,6 +24,8 @@ Training-inference co-design for diffusion-based token drafting. The work
 combines prefix-aware drafter training with acceptance-latency analysis to
 improve speculative decoding efficiency.
 
+[Paper](https://arxiv.org/abs/2610.23935)
+
 ## Efficient KV Cache Management for Agentic LLM Serving
 
 <p class="research-meta">Spring-Summer 2026</p>
