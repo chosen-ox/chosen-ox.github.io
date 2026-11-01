@@ -1,3 +1,8 @@
+- title: "Athanor: An Agent-Native System for Autonomous Post-Training Research"
+  authors: "Yufa Zhou, Yichen Wang, Jiakun Fan, et al."
+  venue: "arXiv preprint, 2026"
+  url: "https://arxiv.org/abs/2610.21055"
+
 - title: "Factorization-Guided Training and Inference for Diffusion-Drafted Speculative Decoding"
   authors: "Jiakun Fan, Min Xiao, et al."
   venue: "Under review"

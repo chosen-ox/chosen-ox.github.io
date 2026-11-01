@@ -16,6 +16,8 @@ Execution protocols and recovery mechanisms support concurrent workers and
 process/storage failures, with fault-injection tests and TLA+ models used to
 check key invariants.
 
+[Paper: Athanor](https://arxiv.org/abs/2610.21055)
+
 ## DScout: Diffusion-Drafted Speculative Decoding
 
 <p class="research-meta">Summer 2026 · Manuscript under review</p>
